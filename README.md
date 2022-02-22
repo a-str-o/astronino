@@ -7,3 +7,5 @@ I'm younes elguerraoui.
 <p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
