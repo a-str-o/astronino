@@ -1,10 +1,9 @@
 # ASTRO
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm younes elguerraoui.
 </p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
+<p align='center'>For enquiries, reach me out over on <a href="https://www.linkedin.com/in/younes-el-guerraoui-758480127/">Linkedin</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
