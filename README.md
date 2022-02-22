@@ -8,4 +8,4 @@ I'm younes elguerraoui.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=astronino&theme=<THEME_NAME>" />
